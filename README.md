@@ -3,6 +3,7 @@
 ![Header Image](github-header-image%20(4).png)
 ---
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=it21271328&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/it21271328/langs)](https://githubtrends.io)
 <!--
 **it21271328/it21271328** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
