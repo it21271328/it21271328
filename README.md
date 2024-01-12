@@ -5,7 +5,7 @@
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=it21271328&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=it21271328&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--![Profile Views](https://komarev.com/ghpvc/?username=it21271328)-->
-![Snake animation](https://github.com/it21271328/it21271328/blob/output/github-contribution-grid-snake.svg) https://blog.arnabghosh.me/add-github-dark-snake-animation-readme
+![Snake animation](https://github.com/it21271328/it21271328/blob/output/github-contribution-grid-snake.svg)
 
 
 <!--
