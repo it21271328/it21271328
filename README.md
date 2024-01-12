@@ -2,7 +2,12 @@
 
 ![Header Image](github-header-image%20(4).png)
 ---
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=it21271328&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=it21271328&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=it21271328&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!--![Profile Views](https://komarev.com/ghpvc/?username=it21271328)-->
+
+
+
 <!--
 **it21271328/it21271328** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
