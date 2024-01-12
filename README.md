@@ -1,6 +1,8 @@
 # Welcome to My GitHub Profile! 👋
 
 ![Header Image](github-header-image%20(4).png)
+---
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=it21271328&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **it21271328/it21271328** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
