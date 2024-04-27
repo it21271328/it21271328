@@ -21,7 +21,7 @@
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=it21271328&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
 <!--<a href="https://github.com/it21271328/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=it21271328&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Janani's github stats" /></a> -->
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=it21271328&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)-->
-<a href="https://github.com/Janani-Withana/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=it21271328&layout=compact&theme=buefy&hide_border=true" /></a>
+<a href="https://github.com/Janani-Withana/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Janani-Withana&layout=compact&theme=buefy&hide_border=true" /></a>
 
 <br />
 <br />
