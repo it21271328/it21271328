@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile! 👋
 
-![Header Image](github-header-image%20(4).png)
+![Header Image](github-header-image%20(7).png)
 ---
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=it21271328&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)-->
 <!--![Profile Views](https://komarev.com/ghpvc/?username=it21271328)-->
