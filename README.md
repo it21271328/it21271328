@@ -8,6 +8,7 @@
 **About me**
 - 🎓 Undergraduate in Software Engineering at SLIIT
 - 💼 Former Trainee Software Engineer (Android Developer) at [Webappclouds](https://webappclouds.com/)
+- 🌐 Check out my portfolio: [My Portfolio](https://janani-withana-portfolio.vercel.app/)
 <br />
 <code><img height="20" alt="html" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" alt="css" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
