@@ -17,45 +17,6 @@ jobs:
           github_user_name: Janani-Withana
           svg_out_path: dist/github-contribution-grid-snake.svg
 
-# WakaTime Coding Stats
-      - name: WakaTime Stats
-        uses: anmol098/waka-readme-stats@v2.2.1
-        with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          SHOW_TITLE: true
-          SHOW_TIMEZONE: true
-
-      # GitHub Readme Stats
-      - name: GitHub Readme Stats
-        uses: anuraghazra/github-readme-stats@v1
-        with:
-          username: Janani-Withana
-          show_icons: true
-          include_all_commits: true
-          count_private: true
-          theme: dark
-
-      # Profile Views Counter
-      - name: Profile Views Counter
-        uses: elkomy22/profile-views-counter@v1.1
-
-      # Spotify Now Playing
-      - name: Spotify Now Playing
-        uses: novatorem/novatorem@latest
-        with:
-          CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
-          CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
-          REFRESH_TOKEN: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
-
-      # Streak Stats
-      - name: GitHub Streak Stats
-        uses: DenverCoder1/github-readme-streak-stats@v1
-        with:
-          user: Janani-Withana
-          theme: dark
-          hide_border: true
-          
       - uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
           target_branch: output
